@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: I love to learn about absolutely anything. 
 
-- 🔍 Find me: https://matt-murdock.tech/
+- 🔍 Find me: https://xr-coder.github.io/
 
 <br/>  
 
