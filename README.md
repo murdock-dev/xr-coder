@@ -53,10 +53,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31edbcehrq2toelqq5nn247nplky&cover_image=true" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=xr-coder&&style=flat-square" align="center" />
 </div>  
