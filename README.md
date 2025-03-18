@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Rahul (Matt Murdock)
+# 👋 Hey there! I'm Matt Murdock
 🚀 Passionate about coding, automation, and open-source projects.
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=murdock-dev&color=blue&style=flat-square)
