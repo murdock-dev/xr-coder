@@ -1,58 +1,45 @@
-### <div align="center">Hi, I'm Rahul Yadav , a curious newbie developer, working 👨‍💻 from the Pokémon World! 🐉</div>  
-  
+# 👋 Hey there! I'm Rahul (Matt Murdock)
+🚀 Passionate about coding, automation, and open-source projects.
 
-  
--  :briefcase:  Working as a Newbie Developer. 
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=murdock-dev&color=blue&style=flat-square)
 
-- 🌱 Learning new things everyday ✨
+## 🔥 About Me  
+- 🏗 Building python apps and other innovative projects  
+- 💡 Always learning new technologies  
+- 🌍 Open-source enthusiast  
+- 🎯 Focused on Python, AI, and backend development  
 
--  ❤️  Anime, Travel, Football, TV series, Marvel.  
-
-- ⚡ Fun fact: I love to learn about absolutely anything. 
-
-- 🔍 Find me: https://matt-murdock.is-a.dev/
-
-<br/>  
-
-
-## 🛠️ Languages and tools
-</br>
-
-![Languages and Tools](https://skillicons.dev/icons?i=vscode,docker,git,github,linux,heroku,redis,mongodb,html,py,c,js&perline=6)
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/xr-coder" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://telegram.me/Mattt_Murdock" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div>  
-
-<br/>
-
-## Found my work useful? Wanna Buy me a Coffee ?
-<div align="center">
-<a href="https://www.buymeacoffee.com/xrcoder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div>  
-
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xr-coder&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-
-<br/>  
-  
 ---
 
-<br/>  
+## 🛠 Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat&logo=telegram&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=xr-coder&&style=flat-square" align="center" />
-</div>  
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=murdock-dev&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=murdock-dev&theme=radical" />
+</p>  
+
+---
+
+## 🎯 Top Projects  
+[![xr-coder](https://github-readme-stats.vercel.app/api/pin/?username=murdock-dev&repo=xr-coder&theme=radical)](https://github.com/murdock-dev/xr-coder)
+
+---
+
+## 🌎 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/murdock-dev)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://telegram.me/Mattt_Murdock)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Matty_Murdockk)  
+
+---
+
+💻 **"Code, innovate, and automate!"** 🚀  
