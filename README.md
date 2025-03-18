@@ -25,7 +25,8 @@
 ---
 
 ## 🎯 Top Projects  
-[![xr-coder](https://github-readme-stats.vercel.app/api/pin/?username=murdock-dev&repo=xr-coder&theme=radical)](https://github.com/murdock-dev/xr-coder)
+[![SmartBot](https://img.shields.io/badge/SmartBot%20🤖-AI%20Chatbot-blueviolet?style=for-the-badge)](https://telegram.me/Daredevil_Bypass)  
+📜 **A Group To Bypass Shortener Links & Extract Posters From Various OTT Platforms**
 
 ---
 
