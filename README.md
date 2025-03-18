@@ -25,7 +25,7 @@
 ---
 
 ## 🎯 Top Projects  
-[![Daredevil](https://img.shields.io/badge/Bypasser-blueviolet?style=for-the-badge)](https://telegram.me/Daredevil_Bypass)  
+[![Daredevil](https://img.shields.io/badge/DD-Bypasser-blueviolet?style=for-the-badge)](https://telegram.me/Daredevil_Bypass)  
 📜 **A Group To Bypass Shortener Links & Extract Posters From Various OTT Platforms**
 
 ---
